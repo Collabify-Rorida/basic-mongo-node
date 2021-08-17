@@ -1,0 +1,23 @@
+.signup-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  
+}
+
+
+.signup-form{
+    width: 30%;
+    padding:10px;
+    border: 2px solid rgb(165, 149, 149);
+}
+
+.container{
+    padding: 10px;
+}
+
+.signup{
+    background-color: grey;
+}
